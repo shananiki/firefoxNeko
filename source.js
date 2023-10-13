@@ -1,8 +1,4 @@
-document.body.style.border = "5px solid red";
 
-var img = document.createElement('img');
-img.src = 'mypath';
-document.body.appendChild(img);
 
 const nekoEl = document.createElement("div");
 let nekoPosX = 32;
